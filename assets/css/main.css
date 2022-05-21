@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #daded4;
+  height: 100vh;
+}
+header {
+  height: 10vh;
+  background-color: #a3bcb6;
+}
+main {
+  padding: 42px 0;
+  height: calc(80vh - 84px);
+}
+table {
+  width: 100%;
+}
+td {
+  padding: 24px;
+}
+#a1 {
+  background-color: #ffccff
+}
+#a2 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #ffcccc;
+}
+#a3 {
+  background-color: #ffcc99
+}
+#a4 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #ffcc66
+}
+#b1 {
+  background-color: #ccccff
+}
+#b2 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #cccccc
+}
+#b3 {
+  background-color: #cccc99
+}
+#b4 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #cccc66
+}
+#c1 {
+  background-color: #99ccff
+}
+#c2 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #99cccc
+}
+#c3 {
+  background-color: #99cc99
+}
+#c4 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #99cc66
+}
+#d1 {
+  background-color: #66ccff
+}
+#d2 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #66cccc
+}
+#d3 {
+  background-color: #66cc99
+}
+#d4 {
+  background-image: url("../img/wolken.jpeg");
+  width: 25%;
+  height: 100px;
+  background-color: #66cc66
+}
+footer {
+  height: 10vh;
+  background: rgba(57, 96, 61, 0.3);
+}
